@@ -1,5 +1,5 @@
 %% Page Replacement Algorithm Simulator
-% by Bradyn Braithwaite
+% by B.
 % 2021 Embry-Riddle Aeronautical University
 
 clc
